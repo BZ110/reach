@@ -33,3 +33,6 @@ This repository includes:
 
 The API will be accessible at `http://0.0.0.0:5000`.
 
+---
+
+Usage Limit has not been implemented, however if this project is actually used anywhere, I may consider it.
